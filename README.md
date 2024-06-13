@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @RahulChand-12211893
-- 👀 I’m interested in Data science and machine learning.
-- 🌱 I’m currently learning Python, HTML, CSS.
-- 💞️ I’m looking to collaborate on different projects in the field of data science and trying to exploring new and inovative work.
-- 📫 email:- rahulchand017@outlook.com
+- 👋 Hi,  I'm Rahul Chand, an enthusiastic undergraduate student specializing in Data Science and Machine Learning. With a strong passion for uncovering patterns in data and developing intelligent algorithms, I am committed to leveraging technology to solve real-world problems.
 
-<!---
-RahulChand-12211893/RahulChand-12211893 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My Journey
+Currently, I am pursuing my undergraduate degree, where I have immersed myself in various aspects of data science, including statistics, data analysis, machine learning, and artificial intelligence. Through my coursework and hands-on projects, I have developed a solid foundation in both the theoretical and practical elements of this exciting field.
+
+Skills and Interests
+Programming Languages: Python, SQL
+Machine Learning: NLP
+Data Visualization: Matplotlib, Seaborn, Plotly
+Tools and Frameworks: TensorFlow, Pandas, NumPy
+Database Management: MySQL
+Version Control: Git, GitHub
