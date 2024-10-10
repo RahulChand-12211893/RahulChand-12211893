@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Rahul Chand</h1>
 <h3 align="center">An enthusiastic undergraduate student specializing in Data Science and Machine Learning. With a strong passion for uncovering patterns in data and developing intelligent algorithms, I am committed to leveraging technology to solve real-world problems.</h3>
-<img align="right" alt = "coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt = "coding" width="400" src=https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=900&t=st=1728556671~exp=1728557271~hmac=5e507d94c64f981aa15886988a75b6ce38d98d835e1d7f34cff9de6ad1dd6dd3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulchand-12211893&label=Profile%20views&color=0e75b6&style=flat" alt="rahulchand-12211893" /> </p>
 
